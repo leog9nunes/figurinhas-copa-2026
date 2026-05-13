@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Neymar Jr",
+    "team": "Brasil",
+    "position": "Atacante",
+    "number": 10,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 2,
+    "name": "Vinícius Júnior",
+    "team": "Brasil",
+    "position": "Atacante",
+    "number": 7,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 3,
+    "name": "Rodrygo",
+    "team": "Brasil",
+    "position": "Atacante",
+    "number": 12,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 4,
+    "name": "Casemiro",
+    "team": "Brasil",
+    "position": "Meio-campista",
+    "number": 5,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 5,
+    "name": "Paquetá",
+    "team": "Brasil",
+    "position": "Meio-campista",
+    "number": 8,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 6,
+    "name": "Messi",
+    "team": "Argentina",
+    "position": "Atacante",
+    "number": 10,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 7,
+    "name": "Mbappé",
+    "team": "França",
+    "position": "Atacante",
+    "number": 10,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 8,
+    "name": "Lewandowski",
+    "team": "Polônia",
+    "position": "Atacante",
+    "number": 9,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 9,
+    "name": "Cristiano Ronaldo",
+    "team": "Portugal",
+    "position": "Atacante",
+    "number": 7,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 10,
+    "name": "Benzema",
+    "team": "França",
+    "position": "Atacante",
+    "number": 19,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 11,
+    "name": "Haaland",
+    "team": "Noruega",
+    "position": "Atacante",
+    "number": 9,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 12,
+    "name": "Harry Kane",
+    "team": "Inglaterra",
+    "position": "Atacante",
+    "number": 9,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 13,
+    "name": "Pedri",
+    "team": "Espanha",
+    "position": "Meio-campista",
+    "number": 8,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 14,
+    "name": "Gavi",
+    "team": "Espanha",
+    "position": "Meio-campista",
+    "number": 5,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 15,
+    "name": "De Bruyne",
+    "team": "Bélgica",
+    "position": "Meio-campista",
+    "number": 7,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 16,
+    "name": "Foden",
+    "team": "Inglaterra",
+    "position": "Atacante",
+    "number": 20,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 17,
+    "name": "Gnabry",
+    "team": "Alemanha",
+    "position": "Atacante",
+    "number": 7,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 18,
+    "name": "Reus",
+    "team": "Alemanha",
+    "position": "Atacante",
+    "number": 11,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 19,
+    "name": "Griezmann",
+    "team": "França",
+    "position": "Atacante",
+    "number": 7,
+    "obtained": false,
+    "repeated": 0
+  },
+  {
+    "id": 20,
+    "name": "Insigne",
+    "team": "Itália",
+    "position": "Atacante",
+    "number": 10,
+    "obtained": false,
+    "repeated": 0
+  }
+]
